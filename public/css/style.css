@@ -543,3 +543,15 @@ button.submit{
   justify-content: center;
   align-items: center;
 }
+
+.follow-text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-icon{
+  width: 64px;
+  height: 64px;
+  margin-left: 140px;
+}
